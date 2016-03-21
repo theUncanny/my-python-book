@@ -16,7 +16,7 @@ En bases de datos se denomina ACID a las características de los parámetros que
 
 En el ámbito de las ciencias de la computación, un *array asociativo* es un *tipo de dato abstracto* (en: *__A__bstract __D__ata __T__ype*, **TDA**) compuesto de una colección de parejas *llaves/claves* (en: key) *valor* (en: value). Mientras que, en una colección, los valores pueden repetirse, las llaves/claves deben ser únicas.
 
-## Buit-in
+## Built-in
 
 Es un adjetivo de origen inglés que, en el contexto del desarrollo del software, sirve para dar a entender que una característica, funcionalidad, biblioteca, módulo, etc, viene ya incorporada o incluida *de serie* y no como un extra, por cual no necesita ser añadida y está disponible en todo momento para su uso.
 
