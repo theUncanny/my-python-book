@@ -26,7 +26,7 @@ CRUD es un acrónimo cuyas siglas representan una serie de operaciones básicas 
 
 ## Estructura de control
 
-Bloque de código que, como su nombre sugiere, permite controlar el flujo del programa, es decir, que debe hacer el programa en cada parte del mismo, pues permite implementar respuestas a cuestiones del tipo "que, como, cuando, donde y porque" (propias del paradigma imperativo) para gestionar las diferentes tareas que el programa debe realizar según que condiciones se den (*if-elif-else*) o repeticiones se quieran (*for*, *while*), a fin de poder obtener la solución del algoritmo implementado.
+Bloque de código que, como su nombre sugiere, permite controlar el flujo del programa, es decir, que debe hacer el programa en cada parte del mismo, pues permite implementar respuestas a cuestiones del tipo "que, como, cuando, donde y porque" (propias del paradigma imperativo) para gestionar las diferentes tareas que el programa debe realizar según que condiciones se den (if-elif-else) o repeticiones se quieran (for, while), a fin de poder obtener la solución del algoritmo implementado.
 
 ## Estructura de datos
 
@@ -36,7 +36,7 @@ https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_stru
 
 ## Fixture
 
-Un ***fixture*** es un concepto usado a menudo en el contexto de las pruebas de software como una analogía a la palabra y concepto usado durante los procesos de fabricación industrial de utensilios, herramientas y maquinaria, consistiendo un *fixture* en una herramienta (p.e: un tornillo o torno de banco) que permite mantener fijo (en: *fixed*) un objeto físico (un tornillo, una tuerca, una tubería, otra herramienta, etc.) sujetándolo con firmeza a fin de poder realizar algún trabajo (aserrar, perforar, fresas, limar, marcar, etc.) sobre el mismo.
+Un fixture es un concepto usado a menudo en el contexto de las pruebas de software como una analogía a la palabra y concepto usado durante los procesos de fabricación industrial de utensilios, herramientas y maquinaria, consistiendo un fixture en una herramienta (p.e: un tornillo o torno de banco) que permite mantener fijo (en: fixed) un objeto físico (un tornillo, una tuerca, una tubería, otra herramienta, etc.) sujetándolo con firmeza a fin de poder realizar algún trabajo (aserrar, perforar, fresas, limar, marcar, etc.) sobre el mismo.
 
 ## Getter
 
@@ -44,7 +44,7 @@ Un ***fixture*** es un concepto usado a menudo en el contexto de las pruebas de 
 
 ## HTTP Router
 
-Se conoce como *HTTP router* o *HTTP request router*, cuya traducción más fiel seria *enrutador* o *encaminador de peticiones HTTP*, es un concepto que se asemeja, de forma análoga, al dispositivo de hardware de red conocido como *router* y, al igual que este se encarga interconectar subredes enviando o "encaminando" paquetes de datos transmitidos entre las máquinas conectadas a estas subredes, un *HTTP request router* se encarga de procesar las peticiones que llegan vía protocolo HTTP, desde una URL, con una URI, para traducirlas de tal forma que *encamina* o dirige la petición hacia el recurso exacto que se está solicitando y realizar la solicitud (*request*) sobre dicho recurso con el *método HTTP* concreto con el que se se haya solicitado tal recurso (GET, POST, HEAD, DELETE, etc.) al servidor HTTP.
+Se conoce como HTTP router o HTTP request router, cuya traducción más fiel seria enrutador o encaminador de peticiones HTTP, es un concepto que se asemeja, de forma análoga, al dispositivo de hardware de red conocido como router y, al igual que este se encarga interconectar subredes enviando o "encaminando" paquetes de datos transmitidos entre las máquinas conectadas a estas subredes, un HTTP request router se encarga de procesar las peticiones que llegan vía protocolo HTTP, desde una URL, con una URI, para traducirlas de tal forma que *encamina* o dirige la petición hacia el recurso exacto que se está solicitando y realizar la solicitud (request) sobre dicho recurso con el método HTTP concreto con el que se se haya solicitado tal recurso (GET, POST, HEAD, DELETE, etc.) al servidor HTTP.
 
 ## Inyección de dependencias (en: Dependency Injection, DI)
 
