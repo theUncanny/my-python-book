@@ -18,7 +18,7 @@ https://es.wikipedia.org/wiki/ACID
 
 En el ámbito de las ciencias de la computación, un *array asociativo* es un *tipo de dato abstracto* (en: **A**bstract **D**ata **T**ype, **TDA**) compuesto de una colección de parejas *llaves/claves* (en: key) *valor* (en: value). Mientras que, en una colección, los valores pueden repetirse, las llaves/claves deben ser únicas.
 
-El concepto abstracto de array asociativo está presente e implementado en diferentes lenguajes de programación y se les da diferentes nombres, mapa (en: map), tabla de símbolos (en: symbol table), diccionario (en: dict), hashes.
+El concepto abstracto de array asociativo está presente e implementado en diferentes lenguajes de programación y se les da diferentes nombres, mapa (en: map), tabla de símbolos (en: *symbol table*), diccionario (en: *dict*), hashes.
 
 [TODO]
 
