@@ -22,7 +22,7 @@ Es un adjetivo de origen inglés que, en el contexto del desarrollo del software
 
 ## CRUD
 
-CRUD es un acrónimo cuyas siglas representan una serie de operaciones básicas usadas para gestionar bases de datos. Dichas siglas, se corresponden, en inglés, con los términos _**C**reate_-_**R**ead_-_**U**pdate_-_**D**elete_, los cuales, traducidos al español, serían equivalentes a *Crear*-*Leer*-*Actualizar*-*Eliminar*.
+CRUD es un acrónimo cuyas siglas representan una serie de operaciones básicas usadas para gestionar bases de datos. Dichas siglas, se corresponden, en inglés, con los términos Create-Read-Update-Delete, los cuales, traducidos al español, serían equivalentes a Crear-Leer-Actualizar-Eliminar.
 
 ## Estructura de control
 
