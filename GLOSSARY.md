@@ -14,7 +14,7 @@ En bases de datos se denomina ACID a las características de los parámetros que
 
 ## Array asociativo
 
-En el ámbito de las ciencias de la computación, un *array asociativo* es un *tipo de dato abstracto* (en: *__A__bstract __D__ata __T__ype*, **TDA**) compuesto de una colección de parejas *llaves/claves* (en: key) *valor* (en: value). Mientras que, en una colección, los valores pueden repetirse, las llaves/claves deben ser únicas.
+En el ámbito de las ciencias de la computación, un array asociativo es un tipo de dato abstracto (en: Abstract Data Type, TDA) compuesto de una colección de parejas *llaves/claves* (en: key) *valor* (en: value). Mientras que, en una colección, los valores pueden repetirse, las llaves/claves deben ser únicas.
 
 ## Built-in
 
