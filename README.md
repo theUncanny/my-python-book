@@ -1,2 +1,4 @@
-# my-python-book
-My Python Book
+# My Python Book
+
+Description of "My Python Book".
+
